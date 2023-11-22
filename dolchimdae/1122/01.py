@@ -1,5 +1,5 @@
 ##  https://school.programmers.co.kr/learn/courses/30/lessons/67256
-## 카카오 2019 인턴 키패드 누르기
+## 카카오 2020 인턴 키패드 누르기
 
 import math
 
